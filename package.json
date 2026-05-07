@@ -1,0 +1,21 @@
+{
+  "name": "penalty-shootout",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "fbx2gltf": "^0.9.7-p1",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "@types/three": "^0.184.0",
+    "kaplay": "^3001.0.18",
+    "three": "^0.184.0"
+  }
+}
